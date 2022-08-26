@@ -1,0 +1,86 @@
+.input-texto{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    background-color: #E5E5E5;
+}
+.input-texto p{
+    font-family: italic;
+}
+
+
+body{
+    background-color: #E5E5E5;
+}
+main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.input-texto{
+    margin-top: 90px;
+    
+}
+
+.mensaje{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 90px;
+    background-image: url(imagenes/Muñeco.png);
+    background-repeat: no-repeat;
+    background-position: 18px;
+    background-size: 300px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 2em;
+    color: black;
+
+}
+.copiar{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 205px;
+    border-radius: 24px;
+    padding: 24px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+.botones{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    height: 352;
+    
+    
+
+    
+
+}
+.encriptar {
+    background-color: darkblue;
+    color: white;
+    border-radius: 24px;
+    padding: 24px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.desencriptar {
+    margin-left: 30 px;
+    border-radius: 24px;
+    padding: 24px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.copyright{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+
